@@ -1,0 +1,67 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+header{
+	width: 100%;
+	height: 100vh;
+    background-image: url('back.png');
+    background-image: url('back.png');
+    background-repeat: repeat;
+    background-size: 100% 100%;
+}
+
+
+P{
+	
+	font-size: 50px;
+	padding-left: 700px;
+	padding-right: 50px;
+	text-align: center;
+	
+}
+
+.father{
+	position: relative;
+	padding-top: 90;
+	padding-left: 20;
+}
+.child{
+    position: absolute;
+    right: 0;
+    top: 250;
+}
+
+
+
+#name{
+	font-size: 100px;
+	text-align: center;
+	background-image: url('NameBack.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+
+.edu{
+	background-image: url('EduBack.png');	
+	padding-left: 30px;
+
+}
+
+td{
+	font-size: 50px;
+	text-align: center;
+
+}
+
+#education{
+	
+	font-size: 80;
+	text-align: center;
+	text-decoration: underline overline;
+	padding-top: 0;
+}
+
+
